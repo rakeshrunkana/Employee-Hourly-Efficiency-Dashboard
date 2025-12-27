@@ -2,7 +2,8 @@ Employee-Hourly-Efficiency-Dashboard
 End-to-end analytics flow from data to action
 
 This diagram shows how employee productivity and break data moves through the system:
-![Report View](assets/<img width="1920" height="1080" alt="Report" src="https://github.com/user-attachments/assets/4984810f-b084-42de-8d5a-821dcd0b8564" />
+![Report View]
+(assets<img width="1920" height="1080" alt="Breaks" src="https://github.com/user-attachments/assets/6b0478ec-614d-4624-875c-9fd89bfbe886" />
 )
 
 SQL Server acts as the centralized data source
@@ -36,6 +37,8 @@ Supports drilldowns and cross-filtering in Power BI
 ✅ Reflects industry-standard dimensional modeling practices.
 
 📊 Dashboard Overview — Visual Description
+![Dash Board View] (assests/<img width="1920" height="1080" alt="Report" src="https://github.com/user-attachments/assets/a97564d7-9188-44fd-925b-5cc7b44e466f" />)
+
 
 High-level performance monitoring dashboard for managers
 
