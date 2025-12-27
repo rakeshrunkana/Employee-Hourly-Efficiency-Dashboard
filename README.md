@@ -67,6 +67,8 @@ Trend charts to identify performance patterns
 ✅ Enables targeted coaching and performance review.
 
 🚨 Power Automate Flow — Visual Description
+![Power Automate] (assests/<img width="1920" height="1080" alt="Power Automate" src="https://github.com/user-attachments/assets/12a69b20-b805-4b7a-844a-0c6948ae5a5f" />
+)
 
 Automated break compliance monitoring workflow
 
@@ -81,6 +83,8 @@ Reduces manual supervision effort
 ✅ Shows practical automation applied to real operations.
 
 📧 Email Alert — Visual Description
+![Email Sample] (assests/<img width="1920" height="1080" alt="Email_Alerts" src="https://github.com/user-attachments/assets/54289f1c-00d9-4401-b28b-0f9632803ca3" />
+)
 
 Automated notification sent to managers
 
