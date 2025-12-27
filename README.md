@@ -16,6 +16,10 @@ Email alerts are sent automatically when violations occur
 ✅ Demonstrates full BI lifecycle design and automation thinking.
 
 🗂️ Data Model (Star Schema) — Visual DescriptionStar Schema
+## 🗂️ Data Model (Star Schema)
+
+![Star Schema](assets/<img width="1920" height="1080" alt="Schema" src="https://github.com/user-attachments/assets/62df4831-759d-4df9-b023-3ad75a60be8a" />
+)
 
 Optimized data model for reporting performance and scalability
 
